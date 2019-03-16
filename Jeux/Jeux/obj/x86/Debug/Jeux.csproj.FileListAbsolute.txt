@@ -1,0 +1,5 @@
+U:\Slam\Jeux\Jeux\bin\Debug\Jeux.exe
+U:\Slam\Jeux\Jeux\bin\Debug\Jeux.pdb
+U:\Slam\Jeux\Jeux\obj\x86\Debug\Jeux.exe
+U:\Slam\Jeux\Jeux\obj\x86\Debug\Jeux.pdb
+U:\Slam\Jeux\Jeux\obj\x86\Debug\Jeux.csprojResolveAssemblyReference.cache
